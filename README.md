@@ -19,3 +19,4 @@
 - <https://git-scm.com/book/ru/v2> - книга Pro Git.
 - <https://githowto.com/ru> - интерактивный тур по git.
 - <https://ru.hexlet.io/courses/intro_to_git> - бесплатный курс на hexlet.
+- <https://training.github.com/downloads/ru/github-git-cheat-sheet> - читлист (краткий список повседневных команд)
